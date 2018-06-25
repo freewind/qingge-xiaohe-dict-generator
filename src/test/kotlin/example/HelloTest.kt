@@ -7,7 +7,7 @@ class HelloTest {
 
     @Test
     fun `hello returns greeting words`() {
-        assertThat(Hello.hello("you")).isEqualTo("Hello, you!")
+        assertThat(hello("you")).isEqualTo("Hello, you!")
     }
 
 }
