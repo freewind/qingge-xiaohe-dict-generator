@@ -29,6 +29,5 @@ dependencies {
     testCompile "org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version"
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion = "4.6"
-}
+// gradle wrapper --gradle-version 4.8.1
+// ./gradlew -version
