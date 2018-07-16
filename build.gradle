@@ -1,6 +1,9 @@
 buildscript {
     ext.kotlin_version = '1.2.51'
     repositories {
+        mavenLocal()
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+        maven { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
         jcenter()
     }
     dependencies {
@@ -12,6 +15,8 @@ apply plugin: 'kotlin'
 
 repositories {
     mavenLocal()
+    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+    maven { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
     jcenter()
 }
 
