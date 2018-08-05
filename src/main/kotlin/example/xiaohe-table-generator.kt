@@ -14,7 +14,8 @@ fun main(args: Array<String>) {
         items.value.sortedBy { it.index }
     }.map { (code, words) ->
         QinggeItem(code, words.map { it.word })
-    }
+    }.sortedBy { it.code }
+
     qinggeTargetFile.writeText(
             qinggeItems.joinToString("\n") { "${it.code} ${it.words.joinToString(" ")}" },
             Charset.forName("UTF-8")
