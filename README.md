@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+清歌输入法 之 小鹤音形词库
+======================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+小鹤双拼音形输入法

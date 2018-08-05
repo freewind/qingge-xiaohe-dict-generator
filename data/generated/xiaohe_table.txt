@@ -74186,7 +74186,7 @@ yzzo 一座座
 yzzs 游踪
 yzzv 有罪
 yzzz 游走
-z 在 子
+zd 在 再
 za 杂
 zabj 咋办
 zacc 杂草
@@ -74477,7 +74477,6 @@ zczk 造
 zczm 躁
 zczo 遭 造作
 zczv 遭罪
-zd 再
 zda 再
 zdan 在案 再按
 zdar 再
