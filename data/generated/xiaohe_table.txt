@@ -27081,7 +27081,7 @@ jmzv 尖嘴
 jmzw 奸贼
 jmzy 建
 jmzz 踺
-jn 叫
+jn 叫 教
 jna 鲛
 jnan 教案
 jnao 骄傲
@@ -75042,7 +75042,7 @@ zhz 藏族
 zhzd 藏在
 zhzi 脏字
 zhzu 藏族
-zi 字
+zi 字 自
 zia 鲻
 ziab 髭
 ziai 自爱
