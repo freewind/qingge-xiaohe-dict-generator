@@ -3249,7 +3249,6 @@
 眍 kzox
 筘 kzvk
 瘌 labd
-落 lack
 拉 lafl
 鞡 lagl
 蝲 laid
@@ -3586,6 +3585,7 @@
 蹽 lnzx
 瘰 lobx
 蓏 locg
+落 lock
 荦 locn
 萝 locx
 洛 lodk

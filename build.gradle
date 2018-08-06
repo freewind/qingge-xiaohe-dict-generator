@@ -21,7 +21,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    compile 'github.freewind:xiaohe-char-decoder:0.3.1'
+    compile 'github.freewind:xiaohe-char-decoder:0.3.2'
     compile "org.apache.commons:commons-lang3:3.7"
     compile "commons-io:commons-io:2.6"
     testCompile "junit:junit:4.11"
