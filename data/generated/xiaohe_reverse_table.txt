@@ -136,7 +136,6 @@
 薄 bccc
 葆 bccm
 苞 bccs
-剥 bced
 抱 bcfs
 报 bcfy
 爆 bchu
@@ -164,7 +163,6 @@
 柏 bdmb
 白 bdpo
 佰 bdrb
-伯 bdrb
 拜 bduf
 掰 bduu
 本 bfaa
@@ -181,7 +179,6 @@
 甭 bgby
 崩 bgeo
 揼 bgfu
-蚌 bgif
 镚 bgjo
 嘣 bgko
 祊 bgpf
@@ -197,6 +194,7 @@
 邦 bhfe
 搒 bhff
 帮 bhfj
+蚌 bhif
 镑 bhjf
 梆 bhme
 榜 bhmf
@@ -283,6 +281,7 @@
 半 bjdl
 湴 bjdy
 阪 bjey
+拌 bjfb
 扮 bjfd
 搬 bjfy
 扳 bjfy
@@ -370,10 +369,10 @@
 帛 bobj
 蕃 boct
 菠 bocy
-泊 bodb
 渤 bodl
 波 body
 浡 bodz
+剥 boed
 嶓 boet
 搏 bofc
 拨 bofd
@@ -392,6 +391,7 @@
 膊 booc
 脖 booz
 袯 bopd
+伯 borb
 砵 boub
 博 bouc
 礴 bouc
@@ -403,7 +403,6 @@
 饽 bouz
 箔 bovb
 舶 bovb
-簿 bovc
 簸 bovy
 亳 bowq
 玻 bowy
@@ -427,6 +426,7 @@
 埗 butp
 埠 butu
 布 buuj
+簿 buvc
 步 buvp
 怖 buxj
 醭 buyn
@@ -497,7 +497,6 @@
 噌 cgko
 层 cgus
 蹭 cgzo
-藏 chci
 苍 chcv
 沧 chdv
 鸧 chrn
@@ -529,6 +528,7 @@
 词 ciyk
 跐 cizb
 残 cjdj
+掺 cjfp
 灿 cjhe
 黪 cjhp
 餐 cjll
@@ -585,7 +585,6 @@
 猝 cuqu
 促 curr
 簇 cuvu
-卒 cuwu
 醋 cuyo
 酢 cuyv
 蹴 cuzy
@@ -686,7 +685,6 @@
 德 deix
 锝 dejc
 嘚 dekc
-地 dety
 扽 dfft
 嶝 dgea
 灯 dghd
@@ -745,6 +743,7 @@
 缔 disj
 坻 ditd
 堤 ditr
+地 dity
 氐 diud
 砥 diud
 觌 diue
@@ -858,7 +857,6 @@
 夺 dodc
 堕 doet
 掇 dofy
-度 dogy
 剁 dojd
 铎 dojl
 朵 dojm
@@ -935,11 +933,11 @@
 渡 dudy
 毒 dufm
 髑 dugi
+度 dugy
 黩 duhd
 镀 dujy
 嘟 duke
 赌 duko
-都 dule
 椟 dumd
 杜 dumt
 犊 dund
@@ -953,13 +951,13 @@
 督 duuo
 笃 duvm
 厾 duvs
+读 duyd
 兑 dvbe
 队 dver
 镦 dvjw
 祋 dvpy
 堆 dvtf
 碓 dvuf
-敦 dvww
 对 dvyc
 怼 dvyx
 嗲 dxkx
@@ -975,6 +973,7 @@
 砘 dyut
 礅 dyuw
 趸 dywr
+敦 dyww
 忳 dyxt
 惇 dyxz
 蹲 dyzc
@@ -991,8 +990,8 @@
 蚪 dziu
 钭 dzju
 唞 dzku
+都 dzle
 篼 dzve
-读 dzyd
 逗 dzza
 鳄 eeak
 额 eebr
@@ -1143,8 +1142,8 @@
 樊 fjmd
 梵 fjmf
 番 fjpt
-翻 fjpx
 繁 fjpx
+翻 fjpx
 反 fjpy
 犯 fjqv
 墦 fjtt
@@ -1154,7 +1153,6 @@
 璠 fjwt
 蹯 fjzt
 返 fjzy
-佛 forf
 鲋 fuac
 甫 fuad
 副 fuad
@@ -1210,6 +1208,7 @@
 桴 fumz
 妇 fune
 腑 fuoc
+脯 fuof
 肤 fuof
 腹 fuow
 服 fuoy
@@ -1225,6 +1224,7 @@
 俯 furc
 傅 furc
 付 furc
+佛 furf
 伏 furq
 俘 furz
 罘 fusb
@@ -1285,7 +1285,6 @@
 嘎 gakg
 噶 gakv
 尕 ganx
-胳 gaok
 伽 gark
 尬 gaul
 尜 gaxx
@@ -1320,27 +1319,30 @@
 戤 gdng
 晐 gdor
 垓 gdtr
+盖 gdym
 该 gdyr
 戈 gead
-哥 geak
 鬲 geal
-歌 gear
 割 gebd
 疙 gebq
 葛 gecv
+哥 gedk
 滆 gedl
+歌 gedr
 隔 geel
 搁 gefk
 骼 gegk
 虼 geiq
 铬 gejk
 镉 gejl
+咯 gekk
 嗝 gekl
 嘅 gekv
 哿 gelk
 格 gemk
 阁 gemk
 革 genl
+胳 geok
 膈 geol
 袼 gepk
 个 gerl
@@ -1353,7 +1355,6 @@
 硌 geuk
 舸 gevk
 各 gewk
-盖 geym
 亘 gfad
 茛 gfcg
 艮 gfen
@@ -1388,7 +1389,6 @@
 堽 ghtv
 矼 ghug
 筻 ghvg
-甘 gjaa
 干 gjau
 鳡 gjax
 疳 gjbg
@@ -1403,6 +1403,7 @@
 杆 gjmg
 柑 gjmg
 橄 gjmw
+甘 gjna
 肝 gjog
 绀 gjsg
 赶 gjtg
@@ -1412,20 +1413,20 @@
 竿 gjvg
 敢 gjvw
 玕 gjwg
-感 gjwx
+感 gjxx
 酐 gjyg
 拐 gkfl
 乖 gkqb
 夬 gkvn
 怪 gkxt
 潢 gldb
-广 gldi
 洸 gldw
 咣 glkw
 桄 glmw
 胱 glow
 犷 glqg
 垙 gltw
+广 glwp
 珖 glww
 光 glxw
 逛 glzw
@@ -1662,7 +1663,6 @@
 氦 hdqr
 亥 hdwr
 醢 hdym
-还 hdzb
 孩 hdzr
 翮 heax
 荷 heck
@@ -1680,6 +1680,7 @@
 贺 helr
 壑 helt
 阖 hemm
+核 hemr
 阂 hemr
 鹖 heon
 曷 heov
@@ -1687,8 +1688,8 @@
 褐 hepv
 郃 here
 龢 herh
-何 herk
 合 herk
+何 herk
 盒 herm
 赫 hetd
 垎 hetk
@@ -1853,6 +1854,7 @@
 环 hrwb
 欢 hryr
 幻 hryv
+还 hrzb
 逭 hrzk
 谼 hsbb
 訇 hsbk
@@ -1908,7 +1910,6 @@
 囫 hukw
 唿 hukx
 糊 humo
-核 humr
 槲 humu
 嫭 hunh
 姱 hunk
@@ -2046,7 +2047,6 @@
 垞 iatq
 碴 iaud
 馇 iaud
-刹 iaxd
 叉 iayd
 差 iayg
 诧 iayq
@@ -2064,7 +2064,6 @@
 晁 icod
 超 ictk
 朝 icuo
-剿 icvd
 巢 icvg
 怊 icxk
 茝 idci
@@ -2089,7 +2088,6 @@
 陈 ifed
 抻 iffu
 煁 ifhv
-称 ifhx
 辰 ifin
 嗔 ifkb
 臣 ifkl
@@ -2115,6 +2113,7 @@
 庱 iggw
 秤 ighp
 程 ighw
+称 ighx
 蛏 igit
 惩 igix
 铖 igji
@@ -2223,7 +2222,6 @@
 潺 ijdz
 巉 ijed
 搀 ijfd
-掺 ijfp
 韂 ijgk
 廛 ijgt
 蟾 ijik
@@ -2289,6 +2287,7 @@
 舂 isfj
 摏 isfj
 铳 isje
+重 ispa
 埫 istk
 虫 isvd
 艟 isvl
@@ -2326,7 +2325,6 @@
 矗 iuuq
 出 iuvk
 处 iuwb
-畜 iuwt
 憷 iuxr
 怵 iuxu
 蹰 iuzc
@@ -2342,7 +2340,6 @@
 倕 ivri
 欻 ixhr
 莼 iyct
-淳 iydz
 蠢 iyfi
 春 iyfo
 唇 iyik
@@ -2405,8 +2402,8 @@
 缙 jbso
 墐 jbta
 馑 jbua
-筋 jbvl
 劲 jbvl
+筋 jbvl
 瑾 jbwa
 瑨 jbwo
 珒 jbwy
@@ -2430,6 +2427,7 @@
 蓟 jicd
 芨 jicj
 荠 jicl
+藉 jico
 蒺 jicu
 芰 jicy
 殛 jida
@@ -2478,9 +2476,9 @@
 机 jimj
 极 jimj
 枅 jimk
-姬 jini
 犄 jink
 姞 jink
+姬 jinl
 嫉 jinu
 妓 jiny
 肌 jioj
@@ -2691,7 +2689,7 @@
 漖 jndw
 角 jndy
 峧 jnex
-搅 jnfj
+搅 jnfe
 轿 jnil
 徼 jniw
 较 jnix
@@ -2718,10 +2716,10 @@
 礁 jnuh
 矫 jnul
 饺 jnux
+剿 jnvd
 郊 jnwe
 璬 jnww
 交 jnwx
-觉 jnxe
 醮 jnyh
 酵 jnyz
 跤 jnzx
@@ -2732,7 +2730,6 @@
 疥 jpbl
 节 jpce
 芥 jpcl
-藉 jpco
 湝 jpdb
 洁 jpdk
 解 jpdn
@@ -2753,7 +2750,6 @@
 耤 jplo
 竭 jplv
 杰 jpmh
-桔 jpmk
 檞 jpmn
 姐 jpnq
 婕 jpnr
@@ -2856,6 +2852,7 @@
 孓 jtvn
 玦 jtwn
 珏 jtwy
+觉 jtxe
 诀 jtyg
 谲 jtyk
 叕 jtyy
@@ -2888,6 +2885,7 @@
 锔 jujk
 巨 juka
 咀 jukq
+桔 jumk
 驹 jumk
 枸 jumk
 椐 jumk
@@ -2980,9 +2978,8 @@
 郡 jyye
 君 jyyk
 咔 kakb
-喀 kakk
 咖 kakk
-咯 kakk
+喀 kakk
 胩 kaob
 卡 kaub
 洘 kcdv
@@ -3258,7 +3255,6 @@
 荖 lccb
 劳 lccl
 涝 lcdl
-潦 lcdx
 崂 lcel
 捞 lcfl
 烙 lchk
@@ -3271,7 +3267,6 @@
 姥 lcnb
 嫪 lcnp
 佬 lcrb
-络 lcsk
 酪 lcyk
 醪 lcyp
 来 ldan
@@ -3293,11 +3288,9 @@
 勒 legl
 叻 lekl
 嘞 lekl
-肋 leol
 乐 lepd
 仂 lerl
 饹 leuk
-了 levl
 簕 levl
 冷 lgds
 崚 lgew
@@ -3481,6 +3474,7 @@
 粮 llml
 椋 llmx
 晾 llox
+俩 llrl
 俍 llrl
 墚 lltm
 亮 llwj
@@ -3521,6 +3515,7 @@
 寮 lnbx
 蓼 lncp
 漻 lndp
+潦 lndx
 聊 lnee
 撂 lnfk
 撩 lnfx
@@ -3538,6 +3533,7 @@
 僚 lnrx
 缭 lnsx
 尥 lnuu
+了 lnvl
 簝 lnvx
 憭 lnxx
 辽 lnzl
@@ -3563,6 +3559,7 @@
 裸 lopg
 猡 loqx
 倮 lorg
+络 losk
 罗 losx
 箩 lovx
 蠃 lowf
@@ -3589,7 +3586,6 @@
 溜 lqdt
 流 lqdv
 瑬 lqdy
-陆 lqej
 旒 lqfv
 熘 lqht
 镠 lqjp
@@ -3605,7 +3601,6 @@
 罶 lqst
 疁 lqtp
 馏 lqut
-碌 lquu
 硫 lquv
 六 lqwb
 刘 lqwd
@@ -3658,6 +3653,7 @@
 澛 ludo
 泸 ludu
 渌 ludu
+陆 luej
 录 lueu
 掳 lufl
 撸 lufo
@@ -3685,6 +3681,7 @@
 甪 lupy
 僇 lurp
 垆 lutu
+碌 luuu
 簏 luvb
 舻 luvu
 箓 luvu
@@ -3728,6 +3725,7 @@
 类 lwmd
 檑 lwmt
 嫘 lwnx
+肋 lwol
 儡 lwrt
 垒 lwst
 缧 lwsx
@@ -3739,7 +3737,6 @@
 酹 lwyc
 诔 lwyl
 雷 lwyt
-俩 lxrl
 沦 lydb
 抡 lyfb
 轮 lyib
@@ -3764,9 +3761,7 @@
 娄 lzmn
 篓 lzvn
 露 lzyk
-抹 mafm
 麻 magm
-摩 magu
 蟆 maid
 蚂 maim
 骂 makm
@@ -3812,13 +3807,13 @@
 铆 mcje
 帽 mcjo
 锚 mcjt
+冒 mcko
 耄 mclm
 楙 mcmm
 懋 mcmx
 牦 mcnm
 昴 mcoe
 眊 mcom
-冒 mcoo
 卯 mcpe
 贸 mcpr
 毛 mcpv
@@ -3851,10 +3846,10 @@
 闷 mfmx
 们 mfrm
 亹 mfwq
+蒙 mgcn
 鹲 mgcn
 萌 mgco
 瞢 mgco
-蒙 mgcu
 甍 mgcw
 濛 mgdu
 擝 mgfm
@@ -3864,7 +3859,7 @@
 虻 mgiw
 锰 mgjm
 幪 mgju
-檬 mgmu
+檬 mgmn
 梦 mgmx
 盟 mgom
 朦 mgou
@@ -3873,7 +3868,6 @@
 礞 mguu
 艋 mgvm
 艨 mgvn
-氓 mgwm
 懵 mgxo
 勐 mgzl
 孟 mgzm
@@ -3887,6 +3881,7 @@
 牤 mhnw
 硭 mhuw
 邙 mhwe
+氓 mhwm
 盲 mhwo
 忙 mhxw
 密 mibe
@@ -3958,12 +3953,12 @@
 沔 mmdm
 湎 mmdm
 免 mmdv
+冕 mmkv
 棉 mmmj
 勔 mmml
 娩 mmnv
 眠 mmom
 腼 mmom
-冕 mmov
 眄 mmov
 偭 mmrm
 绵 mmsj
@@ -3999,9 +3994,11 @@
 殁 mody
 陌 moeb
 摸 mofd
+抹 mofm
 魔 mogg
 麽 mogm
 靺 mogm
+摩 mogu
 磨 mogu
 秣 mohm
 默 mohq
@@ -4040,7 +4037,6 @@
 牧 munw
 睦 muot
 仫 murm
-牟 musn
 木 muun
 母 muvd
 亩 muwt
@@ -4081,10 +4077,12 @@
 眸 mzon
 侔 mzrn
 鍪 mzsj
+牟 mzsn
 谋 mzym
 捺 nafx
 钠 najn
 镎 naju
+哪 nake
 呐 nakn
 嗱 naku
 娜 nane
@@ -4092,11 +4090,10 @@
 衲 napn
 拿 naru
 纳 nasn
-南 naug
+那 nave
 乸 naym
 您 nbrx
 孬 ncbz
-淖 ncdu
 挠 ncfw
 蛲 nciw
 铙 ncjw
@@ -4123,7 +4120,6 @@
 乃 ndvp
 迺 ndzx
 呢 nekb
-哪 neke
 讷 neyn
 嫩 nfnw
 恁 nfrx
@@ -4167,6 +4163,7 @@
 腩 njog
 男 njtl
 赧 njty
+南 njug
 难 njyf
 宁 nkbd
 甯 nkby
@@ -4262,7 +4259,6 @@
 衄 nvxi
 内 nwld
 馁 nwun
-那 nwve
 耨 nzlc
 嗯 ogkx
 噢 ookd
@@ -4323,12 +4319,10 @@
 牌 pdpu
 俳 pdrf
 簰 pdvu
-迫 pdzb
 盆 pfbm
 湓 pfdm
 喷 pfkr
 芃 pgcf
-苹 pgcp
 蓬 pgcz
 淜 pgdo
 澎 pgdp
@@ -4344,8 +4338,8 @@
 朋 pgoo
 膨 pgop
 硼 pguo
-砰 pgup
 彭 pgup
+砰 pgup
 碰 pguy
 篷 pgvz
 烹 pgwh
@@ -4408,7 +4402,6 @@
 叛 pjby
 泮 pjdb
 潘 pjdt
-拌 pjfb
 蟠 pjit
 攀 pjmu
 盼 pjod
@@ -4424,6 +4417,7 @@
 平 pkau
 瓶 pkbw
 荓 pkck
+苹 pkcp
 萍 pkcp
 洴 pkdk
 涄 pkdv
@@ -4455,7 +4449,6 @@
 殍 pndz
 螵 pnix
 嘌 pnkx
-朴 pnmb
 嫖 pnnx
 瞟 pnox
 缥 pnsx
@@ -4465,6 +4458,7 @@
 票 pnxx
 魄 pobg
 皤 pobt
+泊 podb
 泼 podd
 婆 podn
 钋 pojb
@@ -4478,6 +4472,7 @@
 颇 povr
 珀 powb
 酦 poyd
+迫 pozb
 苤 ppca
 瞥 ppdo
 撇 ppfw
@@ -4501,8 +4496,8 @@
 镨 pujo
 圃 pukf
 噗 pukn
+朴 pumb
 氆 pumo
-脯 puof
 仆 purb
 埔 putf
 墣 putn
@@ -4517,9 +4512,9 @@
 裴 pwfy
 锫 pwjk
 帔 pwjy
-呸 pwka
 赔 pwkk
-胚 pwoa
+呸 pwkp
+胚 pwop
 佩 pwrj
 辔 pwsk
 培 pwtk
@@ -4547,6 +4542,7 @@
 噙 qbkd
 嗪 qbkh
 吣 qbkx
+亲 qblm
 檎 qbmd
 骎 qbmy
 勤 qbnl
@@ -4649,7 +4645,6 @@
 轻 qkig
 蜻 qkio
 圊 qkko
-亲 qklm
 晴 qkoo
 卿 qkpe
 氢 qkqg
@@ -4752,7 +4747,6 @@
 侨 qnrl
 俏 qnro
 缲 qnsm
-雀 qnuf
 硚 qnul
 硗 qnuw
 敲 qnwy
@@ -4847,6 +4841,7 @@
 阕 qtmt
 却 qtte
 埆 qtty
+雀 qtuf
 碏 qtuo
 悫 qtux
 确 qtuy
@@ -5037,10 +5032,10 @@
 埽 sctj
 鳃 sdax
 赛 sdbr
+塞 sdbt
 嘥 sdkr
 噻 sdkt
 腮 sdox
-塞 sebt
 色 sedb
 洓 sedn
 涩 sedv
@@ -5214,7 +5209,6 @@
 鳎 taax
 它 tabb
 溻 tadx
-拓 tafu
 挞 tafz
 鞳 tagk
 榻 tamx
@@ -5433,6 +5427,7 @@
 沱 todb
 陀 toeb
 托 tofq
+拓 tofu
 拖 tofy
 庹 togi
 铊 tojb
@@ -5547,6 +5542,7 @@
 傻 uarw
 纱 uasu
 砂 uauu
+刹 uaxd
 杀 uaxm
 霎 uayn
 勺 ucbd
@@ -5615,6 +5611,7 @@
 神 ufpu
 甚 ufqv
 侁 ufre
+什 ufru
 伸 ufru
 绅 ufsu
 矧 uful
@@ -5668,7 +5665,6 @@
 浉 uidj
 湜 uidr
 湿 uidy
-峙 uiec
 示 uiex
 拭 uifg
 拾 uifk
@@ -5679,8 +5675,8 @@
 轼 uiig
 铈 uijj
 鼫 uiju
-噬 uika
 嗜 uiko
+噬 uikr
 师 uilj
 史 uiln
 栻 uimg
@@ -5701,7 +5697,6 @@
 侍 uirc
 食 uirl
 使 uirl
-什 uiru
 仕 uiru
 埘 uitc
 邿 uite
@@ -5828,8 +5823,8 @@
 蜀 uusi
 纾 uusl
 署 uuso
-叔 uuuy
 属 uuuy
+叔 uuuy
 书 uuvd
 疏 uuvv
 戍 uuwd
@@ -5842,7 +5837,7 @@
 帨 uvje
 水 uvln
 睡 uvoi
-谁 uwyf
+谁 uvyf
 耍 uxen
 唰 uxkd
 刷 uxud
@@ -5892,8 +5887,8 @@
 霅 vayk
 诈 vayv
 齇 vazq
-沼 vcdk
 召 vcdk
+沼 vcdk
 兆 vced
 旐 vcfd
 找 vcfg
@@ -5903,12 +5898,10 @@
 曌 vcog
 照 vcoh
 昭 vcok
-爪 vcpn
 罩 vcsu
 赵 vctx
 笊 vcvv
 诏 vcyk
-着 vcyo
 寨 vdbm
 宅 vdbq
 窄 vdbv
@@ -5939,6 +5932,7 @@
 喆 veuk
 磔 veum
 谪 veyk
+着 veyo
 遮 vezh
 这 vezw
 鬒 vfab
@@ -6048,6 +6042,7 @@
 汁 vidu
 沚 vidv
 职 vieb
+峙 viec
 骘 viem
 陟 viep
 掷 vife
@@ -6132,8 +6127,8 @@
 站 vjlk
 栴 vjmd
 栈 vjmj
-毡 vjmk
 粘 vjmk
+毡 vjmk
 瞻 vjok
 偡 vjrv
 绽 vjsr
@@ -6152,11 +6147,11 @@
 桩 vlmt
 奘 vlpd
 茁 voci
-著 voco
 濯 vodf
 浊 vodi
 涿 vodn
 浞 vodr
+淖 vodu
 汋 vodu
 擢 voff
 拙 vofi
@@ -6195,7 +6190,6 @@
 中 vsll
 柊 vsmd
 肿 vsov
-重 vspa
 众 vsrr
 仲 vsrv
 终 vssd
@@ -6208,6 +6202,7 @@
 瘃 vubn
 疰 vubv
 苎 vuca
+著 vuco
 茱 vucv
 渚 vudo
 潴 vudo
@@ -6266,14 +6261,16 @@
 追 vvzk
 髽 vxat
 抓 vxfv
+爪 vxpn
 窀 vybt
 准 vydf
+淳 vydz
 衠 vyii
 谆 vyyz
 宙 vzby
 荮 vzcc
 州 vzdl
-洲 vzdl
+洲 vzdv
 皱 vzdy
 帚 vzej
 粥 vzgg
@@ -6408,7 +6405,6 @@
 龌 wovt
 踒 wozn
 五 wuaa
-戊 wuad
 兀 wuae
 鹉 wuan
 武 wuav
@@ -6426,6 +6422,7 @@
 於 wufd
 捂 wufk
 鹀 wugn
+戊 wugp
 巫 wugr
 庑 wugw
 靰 wugw
@@ -6531,9 +6528,9 @@
 慰 wwux
 艉 wwvm
 琟 wwwf
-威 wwwn
 玮 wwww
 惟 wwxf
+威 wwxn
 霨 wwyc
 诿 wwyn
 谓 wwyo
@@ -6622,8 +6619,8 @@
 禊 xipd
 禧 xipk
 谿 xipk
-悉 xipx
 系 xipx
+悉 xipx
 傒 xird
 俙 xirj
 僖 xirk
@@ -6755,7 +6752,7 @@
 筅 xmve
 舷 xmvy
 现 xmwe
-咸 xmwk
+咸 xmxk
 忺 xmxr
 酰 xmye
 羡 xmyr
@@ -6828,8 +6825,6 @@
 榍 xpmo
 胁 xpob
 歇 xpor
-卸 xppe
-血 xppm
 獬 xpqn
 偕 xprb
 偰 xprd
@@ -6839,6 +6834,7 @@
 协 xpub
 屑 xpuo
 些 xpve
+卸 xpwe
 亵 xpwy
 懈 xpxn
 谐 xpyb
@@ -6922,6 +6918,7 @@
 薛 xtcu
 踅 xtfr
 靴 xtgb
+血 xtpm
 峃 xtxe
 学 xtxz
 谑 xtya
@@ -6959,6 +6956,7 @@
 胥 xuvo
 戌 xuwa
 顼 xuwr
+畜 xuwt
 珝 xuwx
 恤 xuxx
 需 xuye
@@ -7120,7 +7118,6 @@
 舀 ycpj
 鹞 ycpn
 猺 ycqf
-约 ycsu
 垚 yctt
 幺 ycvs
 珧 ycwd
@@ -7143,7 +7140,6 @@
 靥 yeim
 铘 yeje
 噎 yeka
-咽 yekd
 嘢 yekl
 叶 yeku
 吔 yeky
@@ -7349,6 +7345,7 @@
 赝 yjir
 蜒 yjiz
 鼹 yjjn
+咽 yjkd
 郾 yjke
 唁 yjkk
 觃 yjkz
@@ -7447,6 +7444,7 @@
 螈 yrix
 辕 yriy
 园 yrke
+员 yrkr
 圆 yrkr
 橼 yrmu
 嫄 yrnx
@@ -7509,6 +7507,7 @@
 粤 ytpv
 岳 ytqe
 龠 ytrc
+约 ytsu
 趯 yttf
 越 yttv
 籥 ytvc
@@ -7633,7 +7632,6 @@
 云 yyes
 煴 yyhm
 郧 yyke
-员 yykr
 韵 yyld
 耘 yyls
 妘 yyns
@@ -7651,7 +7649,6 @@
 愠 yyxm
 酝 yyys
 运 yyzs
-酉 yzaa
 鱿 yzay
 鲉 yzay
 宥 yzbo
@@ -7687,13 +7684,14 @@
 攸 yzrw
 悠 yzrx
 优 yzry
-尤 yzud
 右 yzuk
 有 yzuo
 尢 yzuv
 友 yzuy
 又 yzvn
+酉 yzxa
 忧 yzxy
+尤 yzyd
 邮 yzye
 羑 yzyj
 幼 yzyl
@@ -7703,7 +7701,6 @@
 匝 zakj
 咂 zakj
 咋 zakv
-咱 zakz
 臜 zaor
 砸 zauj
 枣 zcad
@@ -7754,11 +7751,11 @@
 赠 zgko
 缯 zgso
 罾 zgso
-综 zgsx
 增 zgto
 矰 zguo
 憎 zgxo
 葬 zhcc
+藏 zhci
 赃 zhkt
 驵 zhmq
 脏 zhot
@@ -7807,6 +7804,7 @@
 攒 zjfr
 錾 zjij
 暂 zjio
+咱 zjkz
 糌 zjmo
 赞 zjnr
 趱 zjtr
@@ -7848,6 +7846,7 @@
 偬 zsrx
 倧 zsrx
 纵 zssr
+综 zssx
 踪 zszx
 菹 zucq
 阻 zueq
@@ -7858,6 +7857,7 @@
 祖 zupq
 俎 zurq
 组 zusq
+卒 zuwu
 诅 zuyq
 蕞 zvcy
 嘴 zvky

@@ -7,9 +7,13 @@ import java.nio.charset.Charset
 private val qinggeReverseFile = File("data/generated/xiaohe_reverse_table.txt")
 
 fun main(args: Array<String>) {
-    val items = XiaoHeCharDecoder.charsAll.map {
-        ReverseTableItem(it.char, it.longestCode)
-    }.sortedBy { it.code }
+    val others = run {
+        val popularChars = XiaoHeCharDecoder.popularCode.map { it.char }
+        XiaoHeCharDecoder.charsAll.filterNot { popularChars.contains(it.char) }
+    }
+    val items = (XiaoHeCharDecoder.popularCode.map { ReverseTableItem(it.char, it.code) } + others.map { ReverseTableItem(it.char, it.longestCodes.first()) })
+            .sortedBy { it.code }
+
     qinggeReverseFile.writeText(
             items.joinToString("\n") { (char, code) -> "$char $code" },
             Charset.forName("UTF-8")
