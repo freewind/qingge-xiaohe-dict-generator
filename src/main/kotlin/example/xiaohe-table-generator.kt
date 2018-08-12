@@ -6,6 +6,8 @@ import java.nio.charset.Charset
 
 data class QinggeItem(val code: String, val words: List<String>)
 
+data class WordCode(val word: String, val code: String)
+
 private val luogeDictFile = File("data/luoge-main-dict.txt")
 private val qinggeTargetFile = File("data/generated/xiaohe_table.txt")
 
@@ -18,9 +20,22 @@ fun main(args: Array<String>) {
             .groupBy { it.code }
             .mapValues { it.value.sortedBy { it.index } }
             .map { (code, items) -> QinggeItem(code, items.map { it.word }) }
-            .sortedBy { it.code }
+
+    val allPhrases = luogeItems.map { it.word }.filter { it.length > 1 }
+    val phraseCodes = allPhrases.map { phrase ->
+        try {
+            val pyPart = phrase.map { char -> reverseChars.find { it.char == char }!!.code.take(2) }.joinToString("")
+            val suffix = phrase.map { char -> XiaoHeCharDecoder.findCode(char)!!.parts.first().code!! }.joinToString("")
+            WordCode(phrase, pyPart + suffix)
+        } catch (e: Exception) {
+            println(phrase + ": " + e.toString())
+            null
+        }
+    }.filterNotNull().groupBy { it.code }.map { (key, values) -> QinggeItem(key, values.map { it.word }) }
+
+    val finalItems = (qinggeItems + phraseCodes).sortedBy { it.code }
     qinggeTargetFile.writeText(
-            qinggeItems.joinToString("\n") { "${it.code} ${it.words.joinToString(" ")}" },
+            finalItems.joinToString("\n") { "${it.code} ${it.words.joinToString(" ")}" },
             Charset.forName("UTF-8")
     )
 }
